@@ -19,6 +19,6 @@ https://www.tutorialsteacher.com/csharp/csharp-do-while-loop
 3. **_Düzbucaqlının sahə və perimetrini tapmaq_** algorithmini qurun;
 4. **_Ədədin kvardatını tapmaq_** algorithmini qurun;
 5. **_Ədədin mənfi və ya müsbət olduğunu tapmaq_** algorithmini qurun(0 nəzərə alınmır);
-6. **_Ədədin 3-ə və 4-ə bölənlərinin sayını tapmaq_** algorithmini qurun;
+6. **_100-ə qədər ədədlər arasında 3-ə və 4-ə bölünənlərin sayını tapmaq_** algorithmini qurun;
 7. **_Ədədi tərsinə çevirmək_** algorithmini qurun(Example: ədəd: 1735 => nəticə: 5371 );
 8. **_Ədədin faktorialını tapmaq alqoritmini tapmaq_** algorithmini qurun;
